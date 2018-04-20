@@ -1,6 +1,14 @@
 # vue-cli 制作在线翻译小demo
 
-=====
+## 功能讲解
+
+* 文本框输入内容，选择要翻译的语言，点击翻译即可在线翻译完成。
+
+![](https://github.com/wyysgithub/Vue-Translate/tree/master/src/img/t-1.png)
+
+![](https://github.com/wyysgithub/Vue-Translate/tree/master/src/img/t-2.png)
+
+![](https://github.com/wyysgithub/Vue-Translate/tree/master/src/img/t-3.png)
 
 翻译用到的API:https://tech.yandex.com/translate/
 
